@@ -2,4 +2,4 @@
 Welcome.
 
 ## Step 1
-Go to the page.
+Go to the page. Wow!
